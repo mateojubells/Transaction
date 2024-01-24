@@ -15,7 +15,7 @@
     "name": "Transferencia ahorros",
     "amount": 500.00,
     "date": "2024-01-10",
-    "type": "transfer",
+    "type": "transfer"
   },
   {
     "name": "Compra ropa",
