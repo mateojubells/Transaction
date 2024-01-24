@@ -3,28 +3,24 @@
     "name": "Compra supermercado",
     "amount": 50.00,
     "date": "2024-01-01",
-    "type": "expense",
-    "description": "Gastos mensuales de alimentos"
+    "type": "expense"
   },
   {
     "name": "Ingreso salario",
     "amount": 2000.00,
     "date": "2024-01-05",
-    "type": "income",
-    "description": "Pago mensual"
+    "type": "income"
   },
   {
     "name": "Transferencia ahorros",
     "amount": 500.00,
     "date": "2024-01-10",
     "type": "transfer",
-    "description": "Traspaso de fondos a la cuenta de ahorros"
   },
   {
     "name": "Compra ropa",
     "amount": 80.00,
     "date": "2024-01-15",
-    "type": "expense",
-    "description": "Adquisición de ropa nueva"
+    "type": "expense"
   }
 ]
