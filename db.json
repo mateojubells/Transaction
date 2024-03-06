@@ -23,6 +23,24 @@
       "amount": 80.00,
       "date": "2024-01-15",
       "type": "expense"
+    },
+     {
+      "name": "Ingreso salario",
+      "amount": 2000.00,
+      "date": "2024-01-05",
+      "type": "income"
+    },
+    {
+      "name": "Transferencia ahorros",
+      "amount": 500.00,
+      "date": "2024-01-10",
+      "type": "transfer"
+    },
+    {
+      "name": "Compra ropa",
+      "amount": 80.00,
+      "date": "2024-01-15",
+      "type": "expense"
     }
   ]
 }
