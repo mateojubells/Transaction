@@ -1,5 +1,4 @@
 {
-  "transactions": [
     {
       "name": "Compra supermercados",
       "amount": 50.00,
@@ -156,5 +155,4 @@
       "date": "2024-05-15",
       "type": "transfer"
     }
-  ]
 }
