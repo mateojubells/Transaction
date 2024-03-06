@@ -1,0 +1,14 @@
+# Mockend configuration file
+key: SECRET_KEY # Secure your API (optional)
+models:
+  User:
+    fake: # 100+ random generators
+      _count: 50 # Generate 50 users
+      name: fullName
+      online: bool
+      picture: { imageUrl: [ 48, 48 ] }
+
+    data: # Use your own data
+      [ { name: 'Alice' } ]
+
+    hasMany: [Post, Comment] # Relations to other models
