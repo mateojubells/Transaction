@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "name": "Compra supermercado",
+      "name": "Compra supermercados",
       "amount": 50.00,
       "date": "2024-01-01",
       "type": "expense"
