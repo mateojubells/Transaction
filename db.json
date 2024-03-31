@@ -364,13 +364,6 @@
           "image": "https://url_to_song3_image.jpg",
           "duration": "4:50",
           "songUrl": "https://url_to_song3_audio.mp3"
-        },
-        {
-          "id": 1004,
-          "title": "Song 4",
-          "image": "https://url_to_song4_image.jpg",
-          "duration": "5:20",
-          "songUrl": "https://url_to_song4_audio.mp3"
         }
       ]
     }
