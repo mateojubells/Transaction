@@ -1,22 +1,64 @@
 {
   "transactions": [
     {
-      "name": "Compra de comestibles",
+      "name": "Pago de factura de agua",
+      "amount": 30,
+      "date": "2024-05-01",
+      "type": "Gasto"
+    },
+    {
+      "name": "Compra de libros",
       "amount": 50,
-      "date": "2024-04-25",
+      "date": "2024-05-02",
       "type": "Gasto"
     },
     {
-      "name": "Pago de alquiler",
-      "amount": 1000,
-      "date": "2024-04-30",
-      "type": "Gasto"
-    },
-    {
-      "name": "Ingreso de salario",
-      "amount": 2000,
-      "date": "2024-04-15",
+      "name": "Ingreso de bonificación",
+      "amount": 300,
+      "date": "2024-05-05",
       "type": "Ingreso"
+    },
+    {
+      "name": "Pago de membresía de gimnasio",
+      "amount": 60,
+      "date": "2024-05-10",
+      "type": "Gasto"
+    },
+    {
+      "name": "Compra de medicamentos",
+      "amount": 20,
+      "date": "2024-05-12",
+      "type": "Gasto"
+    },
+    {
+      "name": "Ingreso de venta de electrodoméstico",
+      "amount": 200,
+      "date": "2024-05-15",
+      "type": "Ingreso"
+    },
+    {
+      "name": "Pago de tarjeta de crédito",
+      "amount": 100,
+      "date": "2024-05-20",
+      "type": "Gasto"
+    },
+    {
+      "name": "Compra de boletos de cine",
+      "amount": 25,
+      "date": "2024-05-22",
+      "type": "Gasto"
+    },
+    {
+      "name": "Ingreso por trabajo adicional",
+      "amount": 150,
+      "date": "2024-05-25",
+      "type": "Ingreso"
+    },
+    {
+      "name": "Pago de seguro de coche",
+      "amount": 80,
+      "date": "2024-05-30",
+      "type": "Gasto"
     }
   ]
 }
